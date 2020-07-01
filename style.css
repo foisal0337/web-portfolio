@@ -13,17 +13,30 @@ body {
 .container img {
     width: 50%;
     padding-left: 35%;
+    float: left;
 }
 
 .container-1 {
     padding: 5%;
-    height: 480px;
-    border: 1px solid;
     display: block;
+    float: left;
 }
 
 .btn {
     padding: 10px 30px;
     background-color: #e79d14;
     color: white;
+}
+
+.btn2 {
+    padding: 10px 30px;
+    background-color: #e79d14;
+    color: white;
+}
+
+.con {
+    padding: 5%;
+    margin: 5px;
+    display: block;
+    float: left;
 }
