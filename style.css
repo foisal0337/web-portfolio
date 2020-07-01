@@ -1,42 +1,55 @@
-body {
-    font-family: 'Roboto Slab', serif;
-    line-height: 26px;
-    margin: 0;
-}
-
-.container {
-    width: 50%;
-    float: left;
-    margin-top: 0px;
-}
-
-.container img {
-    width: 50%;
-    padding-left: 35%;
-    float: left;
-}
-
-.container-1 {
-    padding: 5%;
-    display: block;
-    float: left;
-}
-
-.btn {
-    padding: 10px 30px;
-    background-color: #e79d14;
-    color: white;
-}
-
-.btn2 {
-    padding: 10px 30px;
-    background-color: #e79d14;
-    color: white;
-}
-
-.con {
-    padding: 5%;
-    margin: 5px;
-    display: block;
-    float: left;
-}
+         body {
+             font-family: 'Roboto Slab', serif;
+             line-height: 26px;
+             margin: 0;
+         }
+         
+         .container {
+             width: 50%;
+             float: left;
+             margin-top: 0px;
+         }
+         
+         .container img {
+             width: 50%;
+             padding-left: 35%;
+             float: left;
+         }
+         
+         .container-1 {
+             padding: 5%;
+             display: block;
+             float: left;
+         }
+         
+         .btn {
+             padding: 10px 30px;
+             background-color: #e79d14;
+             color: white;
+         }
+         
+         .btn2 {
+             padding: 10px 30px;
+             background-color: #e79d14;
+             color: white;
+         }
+         
+         .con {
+             padding: 5%;
+             margin: 5px;
+             display: block;
+             float: left;
+         }
+         
+         .container-2 {
+             width: 49%;
+             float: left;
+             font-size: 20px;
+             box-shadow: 10px 10px 40px gray;
+             border-radius: 1%;
+             margin-left: 15px;
+         }
+         
+         .btn-1 {
+             margin: 10px;
+         }
